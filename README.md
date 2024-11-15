@@ -10,5 +10,5 @@ _This paper presents a crucial exploration into the impact of positional encodin
 - NIH Chest X-ray:  https://cloud.google.com/healthcare-api/docs/resources/public-datasets/nih-chest
 
 
-## Reprodicability
+## Reproducibility
 To run any of the experiments run [train.py](./posenc/train.py). All used model architectures can be found in [models.py](./posenc/nets/models.py). The training logic for all tasks are defined in the [modules](./posenc/modules) folder.  
